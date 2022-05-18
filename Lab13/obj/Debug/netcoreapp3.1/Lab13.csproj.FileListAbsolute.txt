@@ -1,0 +1,14 @@
+C:\Users\kendr\source\repos\Lab13\Lab13\bin\Debug\netcoreapp3.1\Lab13.exe
+C:\Users\kendr\source\repos\Lab13\Lab13\bin\Debug\netcoreapp3.1\Lab13.deps.json
+C:\Users\kendr\source\repos\Lab13\Lab13\bin\Debug\netcoreapp3.1\Lab13.runtimeconfig.json
+C:\Users\kendr\source\repos\Lab13\Lab13\bin\Debug\netcoreapp3.1\Lab13.runtimeconfig.dev.json
+C:\Users\kendr\source\repos\Lab13\Lab13\bin\Debug\netcoreapp3.1\Lab13.dll
+C:\Users\kendr\source\repos\Lab13\Lab13\bin\Debug\netcoreapp3.1\Lab13.pdb
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.csproj.AssemblyReference.cache
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.AssemblyInfoInputs.cache
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.AssemblyInfo.cs
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.dll
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.pdb
+C:\Users\kendr\source\repos\Lab13\Lab13\obj\Debug\netcoreapp3.1\Lab13.genruntimeconfig.cache
